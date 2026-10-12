@@ -1,0 +1,13 @@
+# Training / evaluation (code/mar20_baseline.py)
+ultralytics>=8.4
+torch>=2.0
+pillow
+
+# Statistical and Grad-CAM analysis (code/analysis/)
+numpy
+scipy
+pandas
+statsmodels
+pingouin
+matplotlib
+opencv-python
