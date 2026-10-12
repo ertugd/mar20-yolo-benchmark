@@ -124,7 +124,7 @@ python tables.py       # -> LaTeX tables
 
 If you use this code, please cite:
 
-> E. Dogruluk and I. Aruk, "Nano YOLO models for fine-grained aircraft recognition in remote sensing images: A statistical benchmark," *submitted to Pattern Analysis and Applications*.
+> E. Dogruluk and I. Aruk, "Nano YOLO models for fine-grained aircraft recognition in remote sensing images: A statistical benchmark," manuscript under review.
 
 ## Acknowledgements
 
